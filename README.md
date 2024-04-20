@@ -9,6 +9,7 @@ You are welcome to contribute to this project! See [CONTRIBUTING.md](CONTRIBUTIN
 
 ## Tutorials
 * [VolkamerLab Talktorials on CADD](https://projects.volkamerlab.org/teachopencadd/talktorials.html) –
+* [Practical Cheminformatic Tutorials by Patrick Walters](https://github.com/PatWalters/practical_cheminformatics_tutorials) – Jupyter notebooks and Google colab notebooks for learning Cheminformatics. From fundamentals of concepts in cheminformatics over clustering, SAR analysis, machine learning and active learning: This course covers everything!
 
 ## Communities
 
