@@ -8,7 +8,7 @@ You are welcome to contribute to this project! See [CONTRIBUTING.md](CONTRIBUTIN
 * [Practical Programming](https://schwallergroup.github.io/practical-programming-in-chemistry/) – 
 
 ## Tutorials
-* [VolkamerLab Talktorials on CADD](https://projects.volkamerlab.org/teachopencadd/talktorials.html) –
+* [VolkamerLab Talktorials on CADD](https://projects.volkamerlab.org/teachopencadd/talktorials.html) – "Talktorials" (portmanteau for talk and tutorial) address many topics central to computer-aided drug design. Topics range from cheminformatics, online queries to structural biology.
 * [Practical Cheminformatic Tutorials by Patrick Walters](https://github.com/PatWalters/practical_cheminformatics_tutorials) – Jupyter notebooks and Google colab notebooks for learning Cheminformatics. From fundamentals of concepts in cheminformatics over clustering, SAR analysis, machine learning and active learning: This course covers everything!
 
 ## Blogs
