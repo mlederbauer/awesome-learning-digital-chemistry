@@ -11,6 +11,11 @@ You are welcome to contribute to this project! See [CONTRIBUTING.md](CONTRIBUTIN
 * [VolkamerLab Talktorials on CADD](https://projects.volkamerlab.org/teachopencadd/talktorials.html) –
 * [Practical Cheminformatic Tutorials by Patrick Walters](https://github.com/PatWalters/practical_cheminformatics_tutorials) – Jupyter notebooks and Google colab notebooks for learning Cheminformatics. From fundamentals of concepts in cheminformatics over clustering, SAR analysis, machine learning and active learning: This course covers everything!
 
+## Blogs
+* [The Valence Kjell](https://www.valencekjell.com/) – A blog about computational chemistry, cheminformatics and machine learning
+
+*Do you want a Digital Chemistry blog to be featured? Let us know by submitting a pull request!*
+
 ## Communities
 
 * [OpenBioML](https://www.openbioml.org/) - OpenBioML is a decentralized, collaborative research community founded on the belief that open source machine learning and open science can accelerate biotechnology.
