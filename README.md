@@ -11,6 +11,7 @@ This course offers a thorough introduction to programming for chemists and chemi
 ## Tutorials
 * [VolkamerLab Talktorials on CADD](https://projects.volkamerlab.org/teachopencadd/talktorials.html) – "Talktorials" (portmanteau for talk and tutorial) address many topics central to computer-aided drug design. Topics range from cheminformatics, online queries to structural biology.
 * [Practical Cheminformatic Tutorials by Patrick Walters](https://github.com/PatWalters/practical_cheminformatics_tutorials) – Jupyter notebooks and Google colab notebooks for learning Cheminformatics. From fundamentals of concepts in cheminformatics over clustering, SAR analysis, machine learning and active learning: This course covers everything!
+* [Transformers for Chemistry and Materials Science](https://github.com/lamalab-org/llm-tutorial?tab=readme-ov-file) – A collection of the [LlamaLab](https://github.com/lamalab-org)'s tutorials on transformers in chemistry and materials science, adapted from blogposts from [Kevin M. Jablonka](https://kjablonka.com/index.html#category=llm)'s Blog.
 
 ## Blogs
 * [The Valence Kjell](https://www.valencekjell.com/) – A blog about computational chemistry, cheminformatics and machine learning
