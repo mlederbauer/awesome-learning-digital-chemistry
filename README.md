@@ -1,6 +1,24 @@
 # awesome-learning-digital-chemistry [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 You are welcome to contribute to this project! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
+## Getting Started: Computer Science & Machine Learning Basics
+* [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) – A Tutorial on the basics of Neural Networks and NLP
+* [The Turing Way](https://github.com/the-turing-way/the-turing-way) – Resources on Data Managment/Reproducible Science
+
+### Programming for Chemists
+* [Scientific Computing for Chemists](https://weisscharlesj.github.io/SciCompforChemists/notebooks/introduction/intro.html)
+* [MolSSI Education: Python Scripting CMS](https://github.com/MolSSI-Education/python_scripting_cms)
+
+### Cheminformatics
+* [Sulstice Cheminformatics Teaching Material](https://github.com/Sulstice/Cheminformatics-Teaching-Material)
+
+### Machine Learning and Materials Informatics
+* [Sp8rks Materials Informatics](https://github.com/sp8rks/MaterialsInformatics)
+* [ML for Materials](https://github.com/aronwalsh/MLforMaterials)
+
+### Self-Driving Labs
+* [Self Driving Labs: A Demo](https://github.com/sparks-baird/self-driving-lab-demo)
+
 
 ## Courses
 
@@ -21,6 +39,9 @@ This course offers a thorough introduction to programming for chemists and chemi
 ## Communities
 
 * [OpenBioML](https://www.openbioml.org/) - OpenBioML is a decentralized, collaborative research community founded on the belief that open source machine learning and open science can accelerate biotechnology.
+
+## Related Awesome Lists
+* [Awesome Chemical Engineering Education](https://github.com/kevingreenman/awesome-chemical-engineering-education)
 
 ## Credits 
 
