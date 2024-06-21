@@ -7,7 +7,7 @@ You are welcome to contribute to this project! See [CONTRIBUTING.md](CONTRIBUTIN
 - [Courses](#courses)
 - [Tutorials](#tutorials)
 - [Blogs and Articles](#blogs)
-- [Communities and Resources](#Communities and Resources)
+- [Communities and Resources](#communities)
 - [Related Awesome Lists](#related)
 - [Credits](#credits)
 
