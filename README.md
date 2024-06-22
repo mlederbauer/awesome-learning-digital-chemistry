@@ -9,7 +9,6 @@ You are welcome to contribute to this project! See [CONTRIBUTING.md](CONTRIBUTIN
 - [Blogs and Articles](#blogs)
 - [Communities and Resources](#communities)
 - [Related Awesome Lists](#related)
-- [Credits](#credits)
 
 <!-- headings -->
 <a id="foundations"></a>
@@ -65,7 +64,6 @@ This course offers a thorough introduction to programming for chemists and chemi
 <a id="related"></a>
 ## Related Awesome Lists
 * [Awesome Chemical Engineering Education](https://github.com/kevingreenman/awesome-chemical-engineering-education)
+* [Awesome Scientific Language Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)
+* [Awesome Chemistry Datasets](https://github.com/kjappelbaum/awesome-chemistry-datasets)
 
-<a id="credits"></a>
-## Credits
-This README is based on the one from [awesome-chemistry-datasets](https://github.com/kjappelbaum/awesome-chemistry-datasets).
