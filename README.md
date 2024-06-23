@@ -19,6 +19,7 @@ You are welcome to contribute to this project! See [CONTRIBUTING.md](CONTRIBUTIN
 * [The Turing Way](https://github.com/the-turing-way/the-turing-way) – Resources on Data Managment/Reproducible Science
 
 ### Programming for Chemists
+* [Introduction to version control for scientists](https://laserkelvin.github.io/blog/2021/10/contributing-github/)
 * [Scientific Computing for Chemists](https://weisscharlesj.github.io/SciCompforChemists/notebooks/introduction/intro.html)
 * [MolSSI Education: Python Scripting CMS](https://github.com/MolSSI-Education/python_scripting_cms)
 
