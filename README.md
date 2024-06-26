@@ -67,4 +67,4 @@ This course offers a thorough introduction to programming for chemists and chemi
 * [Awesome Chemical Engineering Education](https://github.com/kevingreenman/awesome-chemical-engineering-education)
 * [Awesome Scientific Language Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)
 * [Awesome Chemistry Datasets](https://github.com/kjappelbaum/awesome-chemistry-datasets)
-
+* [Awesome Python Chemistry Tools](https://github.com/lmmentel/awesome-python-chemistry)
