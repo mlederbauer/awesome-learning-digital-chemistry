@@ -53,8 +53,8 @@ This course offers a thorough introduction to programming for chemists and chemi
 
 <a id="blogs"></a>
 ## Blogs and Articles
-* [Byte Sized Chemistry](https://mlederbauer.github.io/bytesizedchem) – A blog about digital chemistry and student life
 * [The Valence Kjell](https://www.valencekjell.com/) – A blog about computational chemistry, cheminformatics and machine learning
+* [Byte Sized Chemistry](https://mlederbauer.github.io/bytesizedchem) – A blog about digital chemistry and student life
 
 *Do you want a Digital Chemistry blog to be featured? Let us know by submitting a pull request!*
 
