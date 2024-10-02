@@ -22,6 +22,7 @@ You are welcome to contribute to this project! See [CONTRIBUTING.md](CONTRIBUTIN
 * [Introduction to version control for scientists](https://laserkelvin.github.io/blog/2021/10/contributing-github/)
 * [Scientific Computing for Chemists](https://weisscharlesj.github.io/SciCompforChemists/notebooks/introduction/intro.html)
 * [MolSSI Education: Python Scripting CMS](https://github.com/MolSSI-Education/python_scripting_cms)
+* [Deep Learning for Chemistry 101](https://github.com/rociomer/dl-chem-101)
 
 <a id="core-topics"></a>
 ## Core Topics in Digital Chemistry
