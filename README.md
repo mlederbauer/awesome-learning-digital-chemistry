@@ -67,6 +67,8 @@ This course offers a thorough introduction to programming for chemists and chemi
 ## Communities and Resources
 
 * [OpenBioML](https://www.openbioml.org/) - OpenBioML is a decentralized, collaborative research community founded on the belief that open source machine learning and open science can accelerate biotechnology.
+* [LeMaterial](https://lematerial.org/) – LeMaterial is an open-source collaborative project designed to simplify and accelerate materials research for scientists and ML practionners. By joining the slack and monthly community meetings, you are able to contribute to working groups for large language models, generative models and benchmarks in materials science.
+
 <a id="related"></a>
 ## Related Awesome Lists
 * [Awesome Chemical Engineering Education](https://github.com/kevingreenman/awesome-chemical-engineering-education)
