@@ -42,7 +42,7 @@ You are welcome to contribute to this project! See [CONTRIBUTING.md](CONTRIBUTIN
 ## Courses
 
 * [AI4Chemistry course](https://github.com/schwallergroup/ai4chem_course) - The Artificial Intelligence (AI) for Chemistry taught in Spring 2023 at EPFL (CH-457). It is a course with a lot of hands-on exercises. Experience in Python programming and machine learning (ML) will help you to get up to speed quickly.
-* [Practical Programming](https://schwallergroup.github.io/practical-programming-in-chemistry/) ([here](https://patwalters.github.io/) since April 2025) – 
+* [Practical Programming](https://schwallergroup.github.io/practical-programming-in-chemistry/) – 
 This course offers a thorough introduction to programming for chemists and chemical engineers using Python, covering fundamental concepts and tools relevant to chemical tasks, from Git to the RDKit. The exercises are freely accessible.
 * [Machine Learning for Materials](https://aronwalsh.github.io/MLforMaterials/Overview.html) – An introduction to statistical research tools for materials theory and simulation at the Department of Materials at ICL.
   
@@ -58,7 +58,7 @@ This course offers a thorough introduction to programming for chemists and chemi
 <a id="blogs"></a>
 ## Blogs and Articles
 * [The Valence Kjell](https://www.valencekjell.com/) – A blog about computational chemistry, cheminformatics and machine learning
-* [Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/) – A blog by Pat Walters about many topics in cheminformatics, among others, generative models, LLMs and machine learning in drug discovery.
+* [Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/) ([here](https://patwalters.github.io/) since April 2025) – A blog by Pat Walters about many topics in cheminformatics, among others, generative models, LLMs and machine learning in drug discovery.
 * [Byte Sized Chemistry](https://bytesizedchem.com) – A blog about digital chemistry, data visualization and student life
 
 *Do you want a Digital Chemistry blog to be featured? Let us know by submitting a pull request!*
