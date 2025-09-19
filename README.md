@@ -45,6 +45,8 @@ You are welcome to contribute to this project! See [CONTRIBUTING.md](CONTRIBUTIN
 * [Practical Programming](https://schwallergroup.github.io/practical-programming-in-chemistry/) – 
 This course offers a thorough introduction to programming for chemists and chemical engineers using Python, covering fundamental concepts and tools relevant to chemical tasks, from Git to the RDKit. The exercises are freely accessible.
 * [Machine Learning for Materials](https://aronwalsh.github.io/MLforMaterials/Overview.html) – An introduction to statistical research tools for materials theory and simulation at the Department of Materials at ICL.
+* [Introduction to Cheminformatics and AI in Drug Discovery: Hands-on Modeling of Safety Data](https://srijitseal.com/AIDDCourse) – Machine learning (ML) and artificial intelligence (AI) models are becoming increasingly popular in drug discovery. This course aims to explain how to construct and use ML models for a non-expert audience with a background in life science or safety sciences.
+
   
 <a id="tutorials"></a>
 ## Tutorials
@@ -53,7 +55,6 @@ This course offers a thorough introduction to programming for chemists and chemi
 * [Practical Cheminformatic Tutorials by Patrick Walters](https://github.com/PatWalters/practical_cheminformatics_tutorials) – Jupyter notebooks and Google colab notebooks for learning Cheminformatics. From fundamentals of concepts in cheminformatics over clustering, SAR analysis, machine learning and active learning: This course covers everything!
 * [Transformers for Chemistry and Materials Science](https://github.com/lamalab-org/llm-tutorial) – A collection of the [LlamaLab](https://github.com/lamalab-org)'s tutorials on transformers in chemistry and materials science, adapted from blogposts from [Kevin M. Jablonka](https://kjablonka.com/index.html#category=llm)'s Blog.
 * [Official code tutorial for ACS In Focus (2024) - Neural Networks for Chemists](https://github.com/omics101/acs-neural-networks) – a collection of first-step knowledge and tools to begin harnessing the power of neural networks in your own work.
-
 
 <a id="blogs"></a>
 ## Blogs and Articles
