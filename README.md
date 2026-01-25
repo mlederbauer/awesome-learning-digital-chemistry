@@ -46,6 +46,9 @@ You are welcome to contribute to this project! See [CONTRIBUTING.md](CONTRIBUTIN
 This course offers a thorough introduction to programming for chemists and chemical engineers using Python, covering fundamental concepts and tools relevant to chemical tasks, from Git to the RDKit. The exercises are freely accessible.
 * [Machine Learning for Materials](https://aronwalsh.github.io/MLforMaterials/Overview.html) – An introduction to statistical research tools for materials theory and simulation at the Department of Materials at ICL.
 * [Introduction to Cheminformatics and AI in Drug Discovery: Hands-on Modeling of Safety Data](https://srijitseal.com/AIDDCourse) – Machine learning (ML) and artificial intelligence (AI) models are becoming increasingly popular in drug discovery. This course aims to explain how to construct and use ML models for a non-expert audience with a background in life science or safety sciences.
+* [CHEM 5080: AI for Experimental Chemistry](https://zzhenglab.github.io/ai4chem/intro.html) – This course is taught at the Washington University in St. Louis. It is created for synthetic chemists with no background in coding or data science, and focuses on practical applications of AI in wet lab synthesis and experimental data analysis.
+
+Lecture slides are available to registered students on Canvas or upon request.
 
   
 <a id="tutorials"></a>
